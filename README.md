@@ -2,7 +2,7 @@
 The Amazing Ferarri
 
 Detailed Car made by me
-![Cool Car Build](https://raw.githubusercontent.com/raymondjadielpena-ctrl/Ferarri/main/IMG-20250712-WA0001-rotated.jpg)
+![Cool Car Build](https://raw.githubusercontent.com/raymondjadielpena-ctrl/Ferarri/main/IMG_20251109_190327169_HDR.jpg)
 
 ## Notes:
 - Image is stored in the main branch of the repo.
